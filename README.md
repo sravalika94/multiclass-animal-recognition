@@ -38,7 +38,7 @@ It focuses on recognizing and classifying different animals using a *Convolution
 
 ## 👩‍💻 Developed by
 
-*Sravali K*  
+*Sravalika*  
 3rd Year CSE, Malla Reddy College of Engineering for Women  
 GitHub: [sravalika94](https://github.com/sravalika94)
 
